@@ -5,7 +5,6 @@ Welcome to the "Seattle Airbnb" repository. This repository is a comprehensive a
 - Instalation
 - Project Motivation 
 - Dataset
-- File Descriptions
 - License, Author and Acknowledgements
 
 ### Installation
@@ -19,11 +18,6 @@ The motivation behind this project is aimed to uncover meaninful patterns and tr
 
 ### Dataset
 The dataset used in this reposity is the "Seattle Airbnb Open Data"  available on kaggle, which provides information about Airbnb listings in Seattle.
-
-### File Descriptions
-- Data exploration 
-- Data analysis
-- Data visualization 
 
 ### License, Author and Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle?select=reviews.csv).
