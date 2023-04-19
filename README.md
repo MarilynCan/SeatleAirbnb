@@ -13,10 +13,9 @@ To run the code here only we need the Anaconda distribution of Python. Python ve
 
 ### Project Motivation
 The motivation behind this project is aimed to uncover meaninful patterns and trend of the Seattle Airbnb dataset. Such as:
-- How does the availability fo Airbnb listings change over the course of a year in Seattle? Are there any seasonal trends?
-- What are the most frequently used words in Airbnb listing descriptions in Seattle, and do certain words correlate with higher booking rates?
-- Are there any differences in pricing or availability between short-term and long-term rentals in Seattle Airbnb listings?
-All theses question can be addressed using the Seattle Airbnb data available in the repository. 
+- Are there any seasonal trends both listings and price over the course of a year?
+- How does the number of Airbnb listings and their average prices compare between different Seattle neighborhoods?
+- What are the most common amenities offered by Seattle Airbnb hosts? 
 
 ### Dataset
 The dataset used in this reposity is the "Seattle Airbnb Open Data"  available on kaggle, which provides information about Airbnb listings in Seattle.
